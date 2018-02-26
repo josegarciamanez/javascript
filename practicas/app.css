@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    cursor: pointer;
+}
+
+h2 {
+    color: #FFC300;
+    cursor: pointer;
+}
+
+.text-js {
+    color: #FFC300;
+}
+
+button {
+    cursor: pointer;
+    width: 200px;
+    height: 60px;
+    background: #FFC300;
+}
+
+.h-600 {
+    height: 600px;
+}
