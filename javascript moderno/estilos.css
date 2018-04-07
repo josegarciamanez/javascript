@@ -10,3 +10,45 @@ h1 {
     text-align: center;
     cursor: pointer;
 }
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.mx-auto {
+    margin: 0 auto;
+}
+
+.d-block {
+    display: block;
+}
+
+button {
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: #5bc0de;
+    color: white;
+    outline: none;
+    border-radius: 8px;
+    border: 1px solid #5bc0de;
+}
+
+button:hover {
+    background-color: white;
+    color: #5bc0de;
+}
+
+li {
+    list-style-type: none;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+
+.span1 {
+    font-size: 22px;
+    color: #797979;
+}

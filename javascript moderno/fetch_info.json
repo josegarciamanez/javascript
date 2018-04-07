@@ -1,0 +1,41 @@
+[{
+        "nombre": "jose",
+        "apellidos": "garcía",
+        "puesto": "programador"
+    },
+    {
+        "nombre": "juan",
+        "apellidos": "gutierrez",
+        "puesto": "diseñoWell"
+    },
+    {
+        "nombre": "marcos",
+        "apellidos": "lópez",
+        "puesto": "programador"
+    },
+    {
+        "nombre": "julián",
+        "apellidos": "muñoz",
+        "puesto": "comedordegambas"
+    },
+    {
+        "nombre": "carmen",
+        "apellidos": "demairena",
+        "puesto": "diseñadora"
+    },
+    {
+        "nombre": "lucas",
+        "apellidos": "grijander",
+        "puesto": "mandaos"
+    },
+    {
+        "nombre": "juan",
+        "apellidos": "magán",
+        "puesto": "loscafés"
+    },
+    {
+        "nombre": "marta",
+        "apellidos": "lamala",
+        "puesto": "lalimpieza"
+    }
+]
